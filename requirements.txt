@@ -1,0 +1,13 @@
+flask
+Flask-WTF
+Flask-Mail
+email_validator
+celery
+
+pep8-naming==0.8.2
+pep257==0.7.0
+pycodestyle==2.4.0
+six==1.12
+astroid==2.3.2
+pylint==2.4.3
+tox==3.14.0

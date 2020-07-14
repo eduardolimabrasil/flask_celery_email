@@ -1,4 +1,5 @@
 /venv
 /.tox
 /.vscode
-
+/__pycache__
+/.idea
