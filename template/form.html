@@ -1,0 +1,9 @@
+{% extends "index.html" %}
+{% block content %}
+    <form method="post" action="/enviar">
+        <div><input type="email" name="email" placeholder="e-mail"></div>
+        <div><textarea rows="4" cols="50" name="email_body" placeholder="Texto do e-mail"></textarea></div>
+        <input type="submit" value="Enviar">
+    </form>
+    <div>{{message}}</div>
+{% endblock %}
