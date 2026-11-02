@@ -9,5 +9,5 @@ pep257==0.7.0
 pycodestyle==2.4.0
 six==1.12
 astroid==2.3.2
-pylint==2.4.3
+pylint==4.0.9
 tox==3.14.0
